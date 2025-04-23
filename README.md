@@ -33,7 +33,7 @@ to the tesseract model, i have merely peiced different things to make this exten
     To use the Image to Text Chrome Extension, follow these steps:
   </p>
   <ol>
-    <li>Clone this repository to your local machine using the command: <code>git clone https://github.com/ahmedHanzala/chrome-ocr.git</code></li>
+    <li>Clone this repository to your local machine using the command: <code>git clone https://github.com/silver02050/OCR-chrome-extension.git</code></li>
     <li>In Google Chrome, navigate to <strong>chrome://extensions/</strong> (or go to the menu > More Tools > Extensions).</li>
     <li>Enable the <strong>Developer mode</strong> (usually located in the top right corner).</li>
     <li>Click on the <strong>"Load unpacked"</strong> button.</li>
@@ -62,11 +62,6 @@ to the tesseract model, i have merely peiced different things to make this exten
     <div>
       <img style="width: 70%;" src="https://github.com/ahmedHanzala/chrome-ocr/assets/105395393/1de1ee47-c136-41be-b53e-8222a04d6abd" alt="Usage Example 4">
     </div>
-  <h2>Contributing</h2>
-  <p>
-   This code has been sitting with me for a year now and i kept forgetting to make a repo of this. Contributions to the Extension are welcome! If you have any ideas, bug reports, or feature requests, please submit them as issues or create a pull request on the GitHub repository. 
-  </p>
-
   <h2>License</h2>
   <p>
     The Screen to Text Chrome Extension is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.
