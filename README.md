@@ -25,9 +25,6 @@
       <strong>Privacy and Security:</strong> The extension prioritizes user privacy. All screenshots are temporarily saved using chrome's storage or they might be stored in clipboard if the user so chooses. The images are wiped after one OCR operation if the user doesn't explicitly asks to save them.
     </li>
   </ul>
-<h2>Motivation</h2>
-<p> I was getting annoyed while doing a survey which did not allow for specific words to be copied (I am a non english speaker so i have to google certain words to know their meanings :D) so this extension helped me get through that problem. I have made no intellectual contribution
-to the tesseract model, i have merely peiced different things to make this extension. I also am aware of possibility of using this for online quizzess and stuff, to counter that, the tabs in which the website doesn't allow for copying I have prohibited. I do not condone using this for any malicious practices. </p>
   <h2>Usage</h2>
   <p>
     To use the Image to Text Chrome Extension, follow these steps:
